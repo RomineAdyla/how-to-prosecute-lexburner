@@ -12,7 +12,7 @@ lexburner 网信办举报流程  内容转自百度贴吧和知乎
 【平台类别：直播平台】  
 【直播平台名称：哔哩哔哩】  
 【账号名称/ID：LexBurner/777536】  
-【有害信息所在页面详细网址 https://space.bilibili.com/777536?share_medium=android&share_plat=android&share_source=COPY&share_tag=s_i&timestamp=1612698850&unique_k=vJCfdG】  
+【有害信息所在页面详细网址 `https://space.bilibili.com/777536?share_medium=android&share_plat=android&share_source=COPY&share_tag=s_i&timestamp=1612698850&unique_k=vJCfdG`】  
 
 举报内容：
 
